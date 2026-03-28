@@ -1,0 +1,4 @@
+node_modules/
+.env
+leaderboard-frontend/node_modules/
+leaderboard-backend/node_modules/
